@@ -1,4 +1,3 @@
-import pytest
 from cmath import isclose
 from quadratic2 import quad
 
